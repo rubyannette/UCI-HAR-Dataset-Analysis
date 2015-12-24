@@ -1,4 +1,5 @@
 # UCI-HAR-Dataset-Analysis
+
 Getting and Cleaning Data Project work
 #---------------------------------------------------------------------------------------------
 This repo contains the R scripts that can be used to analysis the UCI HAR Dataset and convert it into a tidy data set.
